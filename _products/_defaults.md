@@ -1,4 +1,5 @@
 ---
+permalink: /fur-jekyll-template
 name:
 garment_type: top
 price:
