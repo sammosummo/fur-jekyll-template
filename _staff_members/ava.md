@@ -1,4 +1,4 @@
 ---
 name: Henry
-image_path: /images/henry_mummy.png
+image_path: /images/small_henry_mummy.png
 ---

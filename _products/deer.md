@@ -1,8 +1,7 @@
 ---
-name: Sacha the Deer
+name: T-shirt
 description_markdown: >-
-  Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
-  this majestic beast and feel all your problems float away.
+  This super soft t-shirt with Henry's custom-designed logo across the chest is sure to make you feel super cool!
 
 
 
@@ -17,16 +16,7 @@ sizes:
   - Large
   - XL
 styles:
-  - name: Black
-    color: '#000000'
-    image: /images/products/deer/black.jpg
-  - name: Blue
-    color: '#39589e'
-    image: /images/products/deer/blue.jpg
-  - name: Clay
-    color: '#9c5145'
-    image: /images/products/deer/clay.jpg
-  - name: Cream
-    color: '#dfd3c2'
-    image: /images/products/deer/cream.jpg
+  - name: White
+    color: '#FFFFFF'
+    image: /images/products/deer/henry_tshirt.jpg
 ---
