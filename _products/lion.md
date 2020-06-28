@@ -1,15 +1,15 @@
 ---
-name: Scar the Lion
+name: Sunglasses
 description_markdown: >-
-  Scar the lion is always true to himself. The Mufasa tragedy was a slight
-  blemish in what was otherwise a saint-like life.
+  These rayban style sunnies will keep you looking suave all summer long, especially
+  with the Henry logo placed subtly along the arm.
 
 
 
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+
 garment_type:
 price: '9.00'
-sku: lion
+sku: hog
 stock: 10
 sizes:
   - Small
@@ -17,7 +17,7 @@ sizes:
   - Large
   - XL
 styles:
-  - name: Blue
-    color: '#39589e'
-    image: /images/products/lion/blue.jpg
+  - name: Lime Green
+    color: '#32CD32'
+    image: /images/products/lion/glasses.png
 ---

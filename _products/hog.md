@@ -1,12 +1,15 @@
 ---
-name: Sunglasses
+name: Drawstring Bag
 description_markdown: >-
-  These rayban style sunnies will keep you looking suave all summer long, especially
-  with the Henry logo placed subtly along the arm.
-  
+  Take this bag everywhere with you this summer, to the shops, on a visit to see family, or slip your
+  Henry sunnies in it and head out to the beach!
+
+
+
+
 garment_type:
 price: '9.00'
-sku: hog
+sku: lion
 stock: 10
 sizes:
   - Small
@@ -14,7 +17,7 @@ sizes:
   - Large
   - XL
 styles:
-  - name: Clay
-    color: '#32CD32'
-    image: /images/products/hog/glasses.png
+  - name: White
+    color: '#FFFFFF'
+    image: /images/products/lion/bag.png
 ---
