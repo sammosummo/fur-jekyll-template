@@ -20,4 +20,7 @@ styles:
   - name: White
     color: '#FFFFFF'
     image: /images/products/giraffe/hoodie.png
+  - name: White
+    color: '#98ff98'
+    image: /images/products/giraffe/hoodie_mint.png
 ---
