@@ -2,7 +2,8 @@
 # Site
 
 title: Henry
-url: "http://crackedbassoon.com/fur-jekyll-template/"
+url: "https://github.com/sammosummo/"
+baseurl: /fur-jekyll-template
 google_analytics_key:
 google_maps_javascript_api_key:
 snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
