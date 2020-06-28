@@ -13,10 +13,7 @@ stock: 10
 sizes:
   - OS
 styles:
-  - name: Cream
-    color: '#dfd3c2'
-    image: /images/products/elephant/cream.jpg
-  - name: Green
-    color: '#67aa79'
-    image: /images/products/elephant/green.jpg
+  - name: White
+    color: '#FFFFFF'
+    image: /images/products/elephant/trucker_hat.png
 ---

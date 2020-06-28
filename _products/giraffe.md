@@ -1,12 +1,12 @@
 ---
-name: Gerald the Giraffe
+name: Hoodie
 description_markdown: >-
-  Gerald the giraffe isn't particularly spiritual but he has a long neck which
-  can help you in a pinch.
+  Slip this hoodie on in the cooler evenings this summer, you'll be warm while still maintaining an element of cool thanks to the Henry logo
+  across your chest!
 
 
 
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  Slim Fit, hoodie, multiple sizes available.
 garment_type:
 price: '9.00'
 sku: giraffe
@@ -17,7 +17,7 @@ sizes:
   - Large
   - XL
 styles:
-  - name: Green
-    color: '#67aa79'
-    image: /images/products/giraffe/green.jpg
+  - name: White
+    color: '#FFFFFF'
+    image: /images/products/giraffe/hoodie.png
 ---
