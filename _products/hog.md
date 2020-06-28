@@ -19,5 +19,5 @@ sizes:
 styles:
   - name: White
     color: '#FFFFFF'
-    image: /images/products/lion/bag.png
+    image: /images/products/hog/bag.png
 ---
