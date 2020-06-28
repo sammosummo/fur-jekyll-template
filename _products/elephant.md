@@ -7,7 +7,7 @@ description_markdown: >-
 
   One size fits all, snapback trucker cap.
 garment_type:
-price: '9.00'
+price: '16.99'
 sku: elephant
 stock: 10
 sizes:

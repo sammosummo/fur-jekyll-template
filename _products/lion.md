@@ -8,7 +8,7 @@ description_markdown: >-
 
 
 garment_type:
-price: '9.00'
+price: '9.99'
 sku: hog
 stock: 10
 sizes:

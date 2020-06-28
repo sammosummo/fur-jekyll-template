@@ -8,7 +8,7 @@ description_markdown: >-
 
 
 garment_type:
-price: '9.00'
+price: '4.99'
 sku: lion
 stock: 10
 sizes:

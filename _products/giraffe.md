@@ -8,7 +8,7 @@ description_markdown: >-
 
   Slim Fit, hoodie, multiple sizes available.
 garment_type:
-price: '9.00'
+price: '14.99'
 sku: giraffe
 stock: 10
 sizes:
