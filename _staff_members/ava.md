@@ -1,4 +1,4 @@
 ---
-name: Ava Sandler
-image_path: https://unsplash.it/600/800?image=1062
+name: Henry
+image_path: henry_mummy.png
 ---
