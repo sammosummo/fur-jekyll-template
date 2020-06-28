@@ -12,12 +12,12 @@ snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5O
 logo: /siteicon.png
 description: Fur t-shirt store
 author:
-  name: fur
-  email: fur@example.com
-  twitter: fur # twitter username without the @ symbol
-  phone: "+1 23456789"
+  name: henry
+  email: henry@example.com
+  twitter: henry # twitter username without the @ symbol
+  phone: "+44 1234 515155"
 social:
-  name: Fur Template
+  name: Henry's Website
   links:
     - https://github.com/CloudCannon/fur-jekyll-template
 
