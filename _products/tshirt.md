@@ -18,5 +18,5 @@ sizes:
 styles:
   - name: White
     color: '#FFFFFF'
-    image: /images/products/deer/henry_tshirt.jpg
+    image: /images/products/deer/henry_tshirt.png
 ---

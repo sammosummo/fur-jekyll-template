@@ -1,21 +1,17 @@
 ---
-name: Bumble the Elephant
+name: Trucker Cap
 description_markdown: >-
-  Bumble the humble elephant is your shining star. He will always remember who
-  you are and why you are here.
+  Wear this super trendy trucker cap with Henry's logo emblazoned across the front, you will be the envy of everyone you meet!
 
 
 
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  One size fits all, snapback trucker cap.
 garment_type:
 price: '9.00'
 sku: elephant
 stock: 10
 sizes:
-  - Small
-  - Medium
-  - Large
-  - XL
+  - OS
 styles:
   - name: Cream
     color: '#dfd3c2'
